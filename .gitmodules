@@ -1,0 +1,6 @@
+[submodule "Assets/Assets/VRTK"]
+	path = Assets/Assets/VRTK
+	url = https://github.com/ExtendRealityLtd/VRTK.git
+[submodule "Assets/VRTK"]
+	path = Assets/VRTK
+	url = https://github.com/ExtendRealityLtd/VRTK.git
